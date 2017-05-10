@@ -4,7 +4,7 @@ android {
 	compileSdkVersion 25
 	buildToolsVersion "25.0.2"
 	defaultConfig {
-		applicationId "com.browser2app.pse_webview_demo"
+		applicationId "com.browser2app.pse.psewebviewdemo"
 		minSdkVersion 15
 		targetSdkVersion 25
 		versionCode 1

@@ -1,4 +1,4 @@
-package com.browser2app.pse_webview_demo;
+package com.browser2app.pse.psewebviewdemo;
 
 import android.content.Context;
 import android.content.DialogInterface;
